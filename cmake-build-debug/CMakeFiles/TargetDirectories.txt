@@ -1,0 +1,3 @@
+/mnt/c/Users/eitan/Desktop/Studies/F/DB/WET2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/eitan/Desktop/Studies/F/DB/WET2/cmake-build-debug/CMakeFiles/WET2.dir
+/mnt/c/Users/eitan/Desktop/Studies/F/DB/WET2/cmake-build-debug/CMakeFiles/edit_cache.dir

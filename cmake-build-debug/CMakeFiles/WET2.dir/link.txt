@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -DNDEBUG -Wall -g   CMakeFiles/WET2.dir/main.cpp.o CMakeFiles/WET2.dir/library2.cpp.o  -o WET2 
